@@ -1,10 +1,10 @@
 # ProtoSchool Seattle
 
-_Add a welcome message introducting [ProtoSchool](https://proto.school) and your chapter's activities._
+_TODO: Add a welcome message introducting [ProtoSchool](https://proto.school) and your chapter's activities._
 
 ## Organizers
 
-_Introduce yourselves!_
+_TODO: Introduce your organizer(s)!_
 
 ## Code of Conduct
 
@@ -14,7 +14,7 @@ our community a harassment-free experience for everyone.
 
 By participating in this project (online and at live chapter events) you agree to abide by its [Code of Conduct](./CODE_OF_CONDUCT.md).
 
-_Be sure to update the CODE_OF_CONDUCT.md document in this repo with your chapter's Code of Conduct, which should include a section on how to report an incident._
+_TODO: Update the CODE_OF_CONDUCT.md document in this repo with your chapter's Code of Conduct, which should include a section on how to report an incident._
 
 ## License
 
