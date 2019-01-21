@@ -1,10 +1,22 @@
-# ProtoSchool Seattle
+# ProtoSchool Seattle Chapter
 
-_TODO: Add a welcome message introducting [ProtoSchool](https://proto.school) and your chapter's activities._
+## Welcome to ProtoSchool Seattle! :evergreen_tree::evergreen_tree::mount_fuji::umbrella:
 
-## Organizers
+Learning **decentralized web** protocols? Want to meet an awesome group of like-minded people and explore the decentralized web? Join us at the next learning event or talk!
 
-_TODO: Introduce your organizer(s)!_
+Our main focus is on decentralized web protocols and tools from [Protocol Labs](https://protocol.ai/) (IPFS, IPLD, LibP2P, Multiformat, Filecoin, etc.)
+
+This community is open to everyone. Together we can accelerate the growth of the decentralized web.
+
+Learn more about [ProtoSchool](https://proto.school)
+
+### Seattle Chapter Organizers
+
+##### - Cameron Wheeler ([@zebul](https://github.com/zebul))
+
+##### - Jim Liu ([@jimcal](https://github.com/jimcal))
+
+Questions? Interested in helping out? Please reach out to one of us.
 
 ## Code of Conduct
 
@@ -13,8 +25,6 @@ contributors and maintainers pledge to making participation in our project and
 our community a harassment-free experience for everyone.
 
 By participating in this project (online and at live chapter events) you agree to abide by its [Code of Conduct](./CODE_OF_CONDUCT.md).
-
-_TODO: Update the CODE_OF_CONDUCT.md document in this repo with your chapter's Code of Conduct, which should include a section on how to report an incident._
 
 ## License
 
