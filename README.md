@@ -16,6 +16,8 @@ Learn more about [ProtoSchool](https://proto.school)
 
 ##### - Jim Liu ([@jimcal](https://github.com/jimcal))
 
+##### - Kelsey Breseman ([@frijol](https://github.com/frijol))
+
 Questions? Interested in helping out? Please reach out to one of us.
 
 ## Code of Conduct
