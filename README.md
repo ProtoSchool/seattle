@@ -4,6 +4,8 @@
 
 Learning **decentralized web** protocols? Want to meet an awesome group of like-minded people and explore the decentralized web? Join us at the next learning event or talk!
 
+**[Find us on our Meetup!](https://www.meetup.com/ProtoSchool-Seattle-Learn-to-Make-the-Decentralized-Web)**
+
 Our main focus is on decentralized web protocols and tools from [Protocol Labs](https://protocol.ai/) (IPFS, IPLD, LibP2P, Multiformat, Filecoin, etc.)
 
 This community is open to everyone. Together we can accelerate the growth of the decentralized web.
