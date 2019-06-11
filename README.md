@@ -2,7 +2,7 @@
 
 ## Welcome to ProtoSchool Seattle! :evergreen_tree::evergreen_tree::mount_fuji::umbrella:
 
-Learning **decentralized web** protocols? Want to meet an awesome group of like-minded people and explore the decentralized web? Join us at the next learning event or talk!
+Learning **decentralized web** protocols? Want to meet an awesome group of like-minded people and explore the decentralized web? Join us at the next learning event or talk– or [propose a talk/workshop of your own](https://github.com/ProtoSchool/seattle/issues/new/choose)!
 
 **[Find us on our Meetup!](https://www.meetup.com/ProtoSchool-Seattle-Learn-to-Make-the-Decentralized-Web)**
 
